@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=TOXIC%20LOVER-V2-XMD%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=LUV%20BYTE-V2-XMD%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=REMEMBER+TO;STAR+AND;FORK;TOXIC;LOVER-V2;-XMD;REPO" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=REMEMBER+TO;STAR+AND;FORK;LUV;BYTES;-XMD;REPO" alt="Typing SVG" /></a>
   </p>
 ```
 
 <div align="center">
-  <a href="https://github.com/lovertoxic"/followers"><img title="Followers" src="https://img.shields.io/github/followers/lovertoxic?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/lovertoxic/TOXIC-LOVER-V2-XMD"/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/lovertoxic/TOXIC-LOVER-V2-XMD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
-  <a href="https://github.com/lovertoxic/TOXIC-LOVER-V2-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/lovertoxic/TOXIC-LOVER-V2-XMD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/lovertoxic"/followers"><img title="Followers" src="https://img.shields.io/github/followers/lUVBYTE?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/ARNOLDT20/Bot"/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/luvBytes/Bot?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  </network/members"><img title="Forks" src="https://img.shields.io/github/forks/lovertoxic/TOXIC-LOVER-V2-XMD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="https://github.com/lovertoxic/TOXIC-LOVER-V2-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/lovertoxic/TOXIC-LOVER-V2-XMD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
   <a href="https://github.com/lovertoxic/TOXIC-LOVER-V2-XMD /graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
